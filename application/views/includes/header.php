@@ -25,3 +25,93 @@
 <body class="page-template-builder page-template">
 
   <section id="wrapper-site">
+
+    <div class="header-secondary content small invert">
+          <div class="container clearfix">
+
+            <nav class="pull-left">
+              <ul id="menu-contact-menu" class="nav nav-horizontal">
+                <li class="menu-tiem">
+                  <a href="tel:+18003388667">Queries: +1 800 338 8667</a>
+                </li>
+                <li class="menu-item">
+                  <a href="#">Facebook</a>
+                </li>
+              </ul>
+            </nav>
+
+            <nav class="pull-right">
+              <ul id="menu-returns-menu" class="nav nav-horizontal">
+                <li class="menu-item">
+                  <a href="#">Newsletter</a>
+                </li>
+
+                <li class="menu-item">
+                  <a href="#">Twitter</a>
+                </li>
+
+                <li class="menu-item">
+                  <a href="/contact-us.html">Contact</a>
+                </li>
+              </ul>
+            </nav>
+
+          </div>
+        </div>
+
+        <header class="header-site header-inline">
+          <div class="container header-block">
+
+            <div class="inline-left-nav">
+              <nav class="nav nav-horizontal">
+                <ul class="menu" id="menu-main-menu-1">
+
+                  <li class="menu-item">
+                    <a href="/">Home</a>
+                  </li>
+
+                  <li class="menu-item">
+                    <a href="/site/about_us">About Us</a>
+                  </li>
+
+                  <li class="menu-item">
+                    <a href="/newsletter/">Newsletter Signup</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+
+            <div class="inline-site-logo">
+              <div class="logo">
+
+                <a href="/" class="site-logo-link" rel="home">
+                  <img src="/assets/img/logo.jpg" alt="American Furniture Alliance, INC" width="151" height="138" data-size="large" class="site-logo">
+                </a>
+
+              </div>
+            </div>
+
+            <div class="inline-right-nav">
+              <nav class="nav nav-horizontal">
+                <ul id="menu-right-menu" class="menu">
+                  <li class="menu-item">
+                    <a href="/product-lines.html">Product Lines</a>
+                  </li>
+
+                  <li class="menu-item">
+                    <a href="">California Gold</a>
+                  </li>
+
+                  <li class="menu-item">
+                    <a href="/site/contact_us">Contact Us</a>
+                  </li>
+                </ul>
+              </nav>
+
+              <a href="" class="responsive-nav"><span class="l-menu"></span></a>
+            </div>
+
+          </div>
+        </header>
+
+        <section id="wrapper-content" class="wrapper-content">
