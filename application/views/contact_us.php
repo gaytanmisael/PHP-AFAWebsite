@@ -33,44 +33,32 @@
 
                         <div id="results"></div>
 
-                        <?php echo form_open('site/submit', 'class="wpcf7-form" id="myForm"'); ?>
+                        <?php echo form_open('actions/submit', 'class="wpcf7-form" id="myForm"'); ?>
                           <p>
                             Your Name (required)
                             <span class="your-name wpcf7-form-control-wrap">
-                              <?php
-                                $your_name = array('name' => 'your-name', 'size' => '40', 'type' => 'text', 'value' => set_value('your-name'));
-                                echo form_input($your_name);
-                              ?>
+                              <input type="text" name="your-name" value="<?php echo set_value('your-name'); ?>" size="40">
                             </span>
                           </p>
 
                           <p>
                             Your Email (required)
                             <span class="your-email wpcf7-form-control-wrap">
-                              <?php
-                                $your_email = array('name' => 'your-email', 'size' => '40', 'type' => 'text', 'value' => set_value('your-email'));
-                                echo form_input($your_email);
-                              ?>
+                              <input type="text" name="your-email" value="<?php echo set_value('your-email'); ?>" size="40">
                             </span>
                           </p>
 
                           <p>
                             Subject
                             <span class="your-subject wpcf7-form-control-wrap">
-                              <?php
-                                $your_subject = array('name' => 'your-subject', 'size' => '40', 'type' => 'text', 'value' => set_value('your-subject'));
-                                echo form_input($your_subject);
-                              ?>
+                              <input type="text" name="your-subject" value="<?php echo set_value('your-subject'); ?>" size="40">
                             </span>
                           </p>
 
                           <p>
                             Your Message
                             <span class="your-message wpcf7-form-control-wrap">
-                              <?php
-                                $your_message = array('name' => 'your-message', 'cols' => '40', 'rows' => '10', 'value' => set_value('your-message'));
-                                echo form_textarea($your_message);
-                              ?>
+                              <textarea name="your-message" rows="10" cols="40"><?php echo set_value('your-message'); ?></textarea>
                             </span>
                           </p>
 
