@@ -1,4 +1,4 @@
-<section id="layers-widget-slide-1" class="swiper-container row slide not-full-screen swiper-container-horizontal" style="height:350px;">
+          <section id="layers-widget-slide-1" class="swiper-container row slide not-full-screen swiper-container-horizontal" style="height:350px;">
             <div class="swiper-wrapper">
 
               <div class="swiper-slide image-right text-left about-slide">
@@ -8,7 +8,7 @@
                       <div class="section-title large">
                         <h3 class="heading">About Us</h3>
                         <div class="excerpt">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis felis nec metus sagittisblandit luctuset psum. </p>
+                          <p>Dominate markets with trend setting products that provide a competitive edge by utilizing innovative processes, materials and logistics. </p>
                         </div>
                       </div>
                     </div>

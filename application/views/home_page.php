@@ -6,9 +6,9 @@
                   <div class="container clearfix">
                     <div class="copy-container">
                       <div class="section-title large">
-                        <h3 class="heading">Some Crazy Mali</h3>
+                        <h3 class="heading">Mali's</h3>
                         <div class="excerpt">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis felis nec metus sagittisblandit luctuset psum. </p>
+                          <p>The Mali is an alternative furniture piece with innovative capabilities.</p>
                         </div>
                         <a href="" class="button btn-large">LEARN MORE</a>
                       </div>

@@ -24,4 +24,35 @@ class Site extends CI_Controller {
     $this->load->view('includes/template', $data);
   }
 
+  function product_lines() {
+
+    $this->load->model('queries');
+    $get_product_lines = $this->queries->get_product_lines();
+
+    $data['get_product_lines']  = $get_product_lines;
+    $data['main_content']       = 'product_lines';
+    $data['title']              = 'Product Lines';
+    $data['onlineStore']        = 'yes';
+    $this->load->view('includes/template', $data);
+  }
+
+  function product_detail($product){
+
+    $this->load->model('queries');
+    $get_product_details = $this->queries->get_product_details($product);
+
+    $data['product_details']    = $get_product_details;
+    $data['product']            = $product;
+    $data['main_content']       = 'product_detail';
+    $data['title']              = 'Product Details';
+    $data['onlineStore']        = 'yes';
+    $this->load->view('includes/template', $data);
+  }
+
+  function events() {
+    $data['main_content']        = 'events';
+    $data['title']               = 'Events';
+    $data['onlineStore']         = 'yes';
+    $this->load->view('includes/template', $data);
+  }
 }

@@ -1,16 +1,3 @@
-var swiper =  new Swiper('.swiper-container', {
-  pagination: '.swiper-pagination',
-  paginationClickable: true,
-  nextButton: '.swiper-button-next',
-  prevButton: '.swiper-button-prev',
-  spaceBetween: 30,
-  loop: true,
-  centeredSlides: true,
-  // autoplay: 2500,
-  // autoplayDisableOnInteraction: false
-});
-
-
 $(document).ready(function() {
     $(".newsletter").fancybox();
 
@@ -19,7 +6,8 @@ $(document).ready(function() {
       closeEffect   : 'none'
     });
 
-    $('nav').slicknav();
+    $('.responsive_menu').slicknav({
+    });
 
 
 });
