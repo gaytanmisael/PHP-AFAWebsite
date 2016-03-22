@@ -39,7 +39,7 @@
               <article class="layers-masonry-column thumbnail column span-4 with-overlay" data-cols="3">
                 <div class="thumbnail-media">
                   <a href="#">
-                    <img width="1024" Height="720" src="/assets/img/famousProducts_1.jpg" alt="Urban Living">
+                    <img width="1024" Height="720" src="<?php echo base_url() . "assets/img/famousProducts_1.jpg"?>" alt="Urban Living">
                   </a>
                 </div>
 
@@ -64,7 +64,7 @@
               <article class="layers-masonry-column thumbnail column span-4 with-overlay" data-cols="3">
                 <div class="thumbnail-media">
                   <a href="#">
-                    <img width="1024" Height="720" src="/assets/img/famousProducts_2.jpg" alt="Urban Living">
+                    <img width="1024" Height="720" src="<?php echo base_url() . "assets/img/famousProducts_2.jpg"?> " alt="Urban Living">
                   </a>
                 </div>
 
@@ -88,7 +88,7 @@
               <article class="layers-masonry-column thumbnail column span-4 with-overlay" data-cols="3">
                 <div class="thumbnail-media">
                   <a href="#">
-                    <img width="1024" Height="720" src="/assets/img/famousProducts_3.jpg" alt="Urban Living">
+                    <img width="1024" Height="720" src="<?php echo base_url() . "assets/img/famousProducts_3.jpg"?>" alt="Urban Living">
                   </a>
                 </div>
 

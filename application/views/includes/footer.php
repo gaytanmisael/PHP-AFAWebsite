@@ -10,7 +10,7 @@
   <footer id="footer" class="footer-site invert">
     <div class="container clearfix">
       <div class="footer-products">
-        <img src="/assets/img/footer.jpg" alt="AFA, INC" />
+        <img src="<?php echo base_url() . "assets/img/footer.jpg"; ?>" alt="AFA, INC" />
       </div>
     </div>
   </footer>
@@ -18,7 +18,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
-  <script src="/assets/js/scripts.js"></script>
+  <script src="<?php echo base_url() . "/assets/js/scripts.js"?>"></script>
 
   <?php if($main_content === 'contact_us') { ?>
       <script type='text/javascript'>

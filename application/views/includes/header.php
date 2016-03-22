@@ -8,13 +8,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,400italic,700,700italic,300italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/assets/css/reset.css">
-  <link rel="stylesheet" href="/assets/css/framework.css">
-  <link rel="stylesheet" href="/assets/css/components.css">
-  <link rel="stylesheet" href="/assets/css/responsive.css">
-  <link rel="stylesheet" href="/assets/css/layer-icons.css">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/reset.css"?>">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/framework.css"?>">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/components.css"?>">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/responsive.css"?>">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/layer-icons.css"?>">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="<?php echo base_url() . "assets/css/style.css"?>">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
 
@@ -51,7 +51,7 @@
                 </li>
 
                 <li class="menu-item">
-                  <a href="/contact-us.html">Contact</a>
+                  <a href="/site/contact_us">Contact</a>
                 </li>
               </ul>
             </nav>
@@ -85,7 +85,7 @@
               <div class="logo">
 
                 <a href="/" class="site-logo-link" rel="home">
-                  <img src="/assets/img/logo.jpg" alt="American Furniture Alliance, INC" width="151" height="138" data-size="large" class="site-logo">
+                  <img src="<?php echo base_url() . "assets/img/logo.jpg"?>" alt="American Furniture Alliance, INC" width="151" height="138" data-size="large" class="site-logo">
                 </a>
 
               </div>

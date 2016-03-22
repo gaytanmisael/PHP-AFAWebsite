@@ -24,27 +24,4 @@ class Site extends CI_Controller {
     $this->load->view('includes/template', $data);
   }
 
-  function submit() {
-
-    $this->form_validation->set_rules('your-name', 'Your Name', 'required|min_legth[5]|max_length[12]');
-    $this->form_validation->set_rules('your-email', 'Your Email', 'trim|required|valid_email');
-    $this->form_validation->set_rules('your-message', 'Your Message', 'required');
-
-    if($this->form_validation->run()) {
-      // Do whatever is neede to process the form and store the data
-
-      $data['no_error'] = $this->processing_tasks();
-      if(IS_AJAX) {
-        echo $data['no_error'];
-      } else {
-        echo 'Oops';
-      }
-    } else {
-      // The form is not valid
-      if(IS_AJAX) {
-        echo 'Not Valid Form';
-      }
-    }
-  }
-
 }
