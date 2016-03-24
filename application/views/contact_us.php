@@ -1,4 +1,6 @@
-<section id="layers-widget-map-1" class="widget layers-contact-widget row content-vertical-massive layers-contact-widget  ">
+<?php // change $to_email in controllers/Actions.php LINE 18 ?>
+
+          <section id="layers-widget-map-1" class="widget layers-contact-widget row content-vertical-massive layers-contact-widget  ">
             <div class="container clearfix">
               <div class="section-title clearfix medium text-center">
                 <h3 class="heading">Contact Us</h3>
@@ -87,7 +89,7 @@
                   <div class="media-body text-left">
                     <h5 class="heading">Call us</h5>
                     <div class="excerpt">
-                      <p>+1 800 338 8667</p>
+                      <p><a href="tel:18003388667">+1 800 338 8667</a></p>
                     </div>
                   </div>
                 </div>

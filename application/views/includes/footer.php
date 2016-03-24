@@ -1,5 +1,5 @@
 <?php if($onlineStore === 'yes') {
-  echo '<a href="http://www.amazon.com/s?ie=UTF8&field-brandtextbin=American%20Furniture%20Alliance&page=1&rh=n%3A1055398" class="widget container push-bottom-medium woocommerce widget_product_search">Check out our Online Store</a>';
+  echo '<a href="http://www.amazon.com/s?ie=UTF8&field-brandtextbin=American%20Furniture%20Alliance&page=1&rh=n%3A1055398" target="_blank" class="widget container push-bottom-medium woocommerce widget_product_search">Check out our Online Store</a>';
 } else {
 
 }; ?>

@@ -12,7 +12,7 @@
         #FOOTER
         #PAGINATION
         #SHOPPING CART
-        #PRICE FILTER
+        # FILTER
         #ICONS
         #BIG PRODUCT SEARCH BAR
         #WOO DEFAULTS
@@ -180,6 +180,12 @@ textarea, input, select{
       background-repeat: no-repeat, repeat;
       background-position: right, right;
       background-image: url('../img/slider/about-us.png'), url('../img/bg_pattern.png');
+    }
+
+    .social-slide{
+      background-repeat: no-repeat, repeat;
+      background-position: right, right;
+      background-image: url('../img/slider/social.png'), url('../img/bg_pattern.png');
     }
 
 
@@ -389,6 +395,7 @@ textarea, input, select{
 /*- #WOO DEFAULTS -------*/
 .price{
     color: #769049;
+    font-size: 2em;
 }
 .onsale{
     background-color: #E1574C;
@@ -829,6 +836,10 @@ table.my_account_orders{
     background: url('../img/bg_pattern.png');
   }
 
+  .social-slide {
+    background: url('../img/bg_pattern.png');
+  }
+
   .swiper-slide.image-right .copy-container {
     width: 100%;
     text-align: center;
@@ -1096,4 +1107,31 @@ table.my_account_orders{
             font-weight: 200;
         }
 
+}
+
+div#results {
+  width:100%;
+  display: block;
+  text-align:center;
+}
+
+div#results.error  p{
+  color: white;
+  background-color: #d9534f;
+  border: 1px solid red;
+  border-radius: .25rem;
+  padding: .375rem .75rem;
+}
+
+div#results.success p {
+  color: white;
+  background-color: #5cb85c;
+  border: 1px solid green;
+  border-radius: .25rem;
+  padding: .375rem .75rem;
+}
+
+.button:hover{
+  background-color: #323232;
+  color: #fff;
 }

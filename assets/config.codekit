@@ -367,6 +367,105 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/product-detail\/mali\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87130,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59457,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73460,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61648,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54328,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59992,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45180,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50825,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/product-detail\/mali\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60816,
+		"inputAbbreviatedPath": "\/img\/product-detail\/mali\/9.jpg",
+		"outputAbbreviatedPath": "\/img\/product-detail\/mali\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/product-images\/bean-bag1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -444,17 +543,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/slider\/slide_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 182671,
-		"inputAbbreviatedPath": "\/img\/slider\/slide_1.jpg",
-		"outputAbbreviatedPath": "\/img\/slider\/slide_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/slider\/slide_1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -462,6 +550,39 @@
 		"initialSize": 580666,
 		"inputAbbreviatedPath": "\/img\/slider\/slide_1.png",
 		"outputAbbreviatedPath": "\/img\/slider\/slide_1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider\/social.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254217,
+		"inputAbbreviatedPath": "\/img\/slider\/social.png",
+		"outputAbbreviatedPath": "\/img\/slider\/social.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social-img\/ispa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359182,
+		"inputAbbreviatedPath": "\/img\/social-img\/ispa.jpg",
+		"outputAbbreviatedPath": "\/img\/social-img\/ispa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social-img\/wmc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52236,
+		"inputAbbreviatedPath": "\/img\/social-img\/wmc.jpg",
+		"outputAbbreviatedPath": "\/img\/social-img\/wmc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

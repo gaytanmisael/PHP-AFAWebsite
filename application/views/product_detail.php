@@ -27,7 +27,7 @@
 
                   <div class="column product-images span-6">
                     <div class="images">
-                      <a href="' . base_url() . 'assets/img/product-detail/' . $row->pic1 . '" class="woocommerce-main-image zoom" title="Blue Orb">
+                      <a href="' . base_url() . 'assets/img/product-detail/' . $row->pic1 . '" rel="gallery1" class="woocommerce-main-image zoom" title="'. $row->name .'">
                         <img src="' . base_url() . 'assets/img/product-detail/' . $row->pic1 . '" alt="' . $row->name . '">
                       </a>
                     </div>
@@ -50,43 +50,43 @@
                     }
 
                     if($row->pic4 != ''){
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic4 . '" class="zoom first" title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic4 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic4 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic5 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic5 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic5 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic5 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic6 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic6 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic6 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic6 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic7 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic7 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic7 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic7 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic8 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic8 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic8 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic8 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic9 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic9 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic9 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic9 . '" class="" alt="">
                       </a>';
                     }
 
                     if($row->pic10 != '') {
-                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic10 . '" rel="gallery1" class="zoom first" title=title="'. $row->name .'">
+                      echo '<a href="' . base_url() . 'assets/img/product-detail/' . $row->pic10 . '" rel="gallery1" class="zoom first" title="'. $row->name .'">
                         <img width="220" height="220" src="' . base_url() . 'assets/img/product-detail/' . $row->pic10 . '" class="" alt="">
                       </a>';
                     }

@@ -21,15 +21,15 @@
                 <?php foreach($get_product_lines as $row){
 
                   echo '<li class="product type-product">
-                          <a href="' . $row->url . '">
+                          <a href="' . base_url(). 'site/product_detail/' . $row->url . '">
                             <div class="img-wrap layers-storekit-flip">
                               <img src="'. base_url() . 'assets/img/product-images/' .  $row->pic . '" class="">
                             </div>
                             <h3>' . $row->name . '</h3>
                             <span class="price">' . $row->description . '</span>
                           </a>
-                          <a rel="nofollow" href="' . $row->url . '" class="button product_type_simple ">Learn More</a>
-                        </li>' . "\r\n";
+                          <a rel="nofollow" href="'. base_url(). 'site/product_detail/' . $row->url . '" class="button product_type_simple ">Learn More</a>
+                        </li>';
                 }?>
               </ul>
             </div>
