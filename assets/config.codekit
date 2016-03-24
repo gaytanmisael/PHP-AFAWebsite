@@ -257,17 +257,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21570,
-		"inputAbbreviatedPath": "\/img\/logo.png",
-		"outputAbbreviatedPath": "\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/product-detail\/bean_bags\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -550,6 +539,28 @@
 		"initialSize": 580666,
 		"inputAbbreviatedPath": "\/img\/slider\/slide_1.png",
 		"outputAbbreviatedPath": "\/img\/slider\/slide_1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider\/slide_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367964,
+		"inputAbbreviatedPath": "\/img\/slider\/slide_2.png",
+		"outputAbbreviatedPath": "\/img\/slider\/slide_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider\/slide_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359539,
+		"inputAbbreviatedPath": "\/img\/slider\/slide_3.png",
+		"outputAbbreviatedPath": "\/img\/slider\/slide_3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

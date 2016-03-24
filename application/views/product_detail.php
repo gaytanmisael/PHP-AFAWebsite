@@ -15,7 +15,7 @@
                   </li>
                 </ul>
               </nav>
-              <h3 class="heading"><?php if($product === 'bean_bags'){ echo "Bean Bags";}?></h3>
+              <h3 class="heading"><?php if($product === 'bean_bags'){ echo "Bean Bags";} if($product === 'mali'){echo 'Mali';}?></h3>
             </div>
           </div>
 
@@ -92,7 +92,8 @@
                     }
 
 
-                  echo '  </div>
+                  echo '  </div><br/><br/>
+                    <a href="http://www.amazon.com/s?ie=UTF8&field-brandtextbin=American%20Furniture%20Alliance&page=1&rh=n%3A1055398" class="button btn-large" target="_blank">More Colors!</a>
                   </div>
 
                 </div>

@@ -176,6 +176,18 @@ textarea, input, select{
       background-image: url('../img/slider/slide_1.png'), url('../img/bg_pattern.png');
     }
 
+    .slide-2 {
+      background-repeat: no-repeat, repeat;
+      background-position: right, right;
+      background-image: url('../img/slider/slide_2.png'), url('../img/bg_pattern.png');
+    }
+
+    .slide-3 {
+      background-repeat: no-repeat, repeat;
+      background-position: right, right;
+      background-image: url('../img/slider/slide_3.png'), url('../img/bg_pattern.png');
+    }
+
     .about-slide{
       background-repeat: no-repeat, repeat;
       background-position: right, right;
@@ -832,6 +844,14 @@ table.my_account_orders{
     background: url('../img/bg_pattern.png');
   }
 
+  .slide-2 {
+    background: url('../img/bg_pattern.png');
+  }
+
+  .slide-3 {
+    background: url('../img/bg_pattern.png');
+  }
+
   .about-slide {
     background: url('../img/bg_pattern.png');
   }
@@ -857,6 +877,14 @@ table.my_account_orders{
 
 @media only screen and (max-width: 1024px) {
   .slide-1 {
+    background: url('../img/bg_pattern.png');
+  }
+
+  .slide-2 {
+    background: url('../img/bg_pattern.png');
+  }
+
+  .slide-3 {
     background: url('../img/bg_pattern.png');
   }
 

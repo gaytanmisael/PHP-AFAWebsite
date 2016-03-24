@@ -7,6 +7,8 @@
   <meta name="description" content="American Furniture Alliance has been manufacturing furniture for over twenty years. AFA has grown steadily from our humble beginnings of sewing bean bags out of a garage and selling them at swap meets in 1987.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <link rel="icon" type="image/png" href="<?php echo base_url() . 'assets/img/favicon.ico'; ?>">
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/SlickNav/1.0.5.5/slicknav.min.css" media="screen" title="no title" charset="utf-8">
   <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,400italic,700,700italic,300italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="<?php echo base_url() . "assets/css/reset.css"?>">
@@ -98,7 +100,7 @@
               <nav class="nav nav-horizontal">
                 <ul id="menu-right-menu" class="menu">
                   <li class="menu-item">
-                    <a href="/site/product_lines">Product Lines</a>
+                    <a href="/site/product_lines">Products</a>
                   </li>
 
                   <li class="menu-item">
@@ -117,7 +119,7 @@
                   <li><a href="/">Home</a></li>
                   <li><a href="/site/about_us">About Us</a></li>
                   <li><a href="/site/events">Events</a></li>
-                  <li><a href="/site/product_lines">Product Lines</a></li>
+                  <li><a href="/site/product_lines">Products</a></li>
                   <li><a href="">California Gold</a></li>
                   <li><a href="/site/contact_us">Contact Us</a></li>
                 </ul>

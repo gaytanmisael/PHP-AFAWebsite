@@ -67,9 +67,9 @@
                   <div class="column span-12">
                     <div class="product-top clearfix">
                       <div class="row" style="text-align:center;">
-                        <a href="https://www.facebook.com/American-Furniture-AllianceElite-Products-143759025699361/" ><i style="color: #3b5998;" class="fa fa-facebook-official fa-5x"></i></a>&nbsp;
-                        <a href="https://twitter.com/afa_elite"><i style="color: #4099FF;" class="fa fa-twitter-square fa-5x"></i></a>&nbsp;
-                        <a href="mailto:info@afa3.com"><i class="fa fa-envelope fa-5x"></i></a>
+                        <a href="https://www.facebook.com/American-Furniture-AllianceElite-Products-143759025699361/" target="_blank" ><i style="color: #3b5998;" class="fa fa-facebook-official fa-5x"></i></a>&nbsp;
+                        <a href="https://twitter.com/afa_elite" target="_blank"><i style="color: #4099FF;" class="fa fa-twitter-square fa-5x"></i></a>&nbsp;
+                        <a href="mailto:info@afa3.com" target="_blank"><i class="fa fa-envelope fa-5x"></i></a>
                       </div>
                     </div>
                   </div>
