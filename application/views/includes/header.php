@@ -104,7 +104,7 @@
                   </li>
 
                   <li class="menu-item">
-                    <a href="">California Gold</a>
+                    <a href="/site/california_gold">California Gold</a>
                   </li>
 
                   <li class="menu-item">
@@ -120,7 +120,7 @@
                   <li><a href="/site/about_us">About Us</a></li>
                   <li><a href="/site/events">Events</a></li>
                   <li><a href="/site/product_lines">Products</a></li>
-                  <li><a href="">California Gold</a></li>
+                  <li><a href="/site/california_gold">California Gold</a></li>
                   <li><a href="/site/contact_us">Contact Us</a></li>
                 </ul>
               </div>

@@ -17,10 +17,10 @@ class Site extends CI_Controller {
     $this->load->view('includes/template', $data);
   }
 
-  function contact_us() {
-    $data['main_content'] = 'contact_us';
-    $data['title']        = 'Contact Us';
-    $data['onlineStore']  = 'no';
+  function events() {
+    $data['main_content']        = 'events';
+    $data['title']               = 'Events';
+    $data['onlineStore']         = 'yes';
     $this->load->view('includes/template', $data);
   }
 
@@ -49,10 +49,17 @@ class Site extends CI_Controller {
     $this->load->view('includes/template', $data);
   }
 
-  function events() {
-    $data['main_content']        = 'events';
-    $data['title']               = 'Events';
-    $data['onlineStore']         = 'yes';
+  function california_gold() {
+    $data['main_content']     = 'california_gold';
+    $data['title']            = 'California Gold';
+    $data['onlineStore']      = 'no';
+    $this->load->view('includes/template', $data);
+  }
+
+  function contact_us() {
+    $data['main_content'] = 'contact_us';
+    $data['title']        = 'Contact Us';
+    $data['onlineStore']  = 'no';
     $this->load->view('includes/template', $data);
   }
 }

@@ -202,6 +202,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ca_gold\/modern_home.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 897000,
+		"inputAbbreviatedPath": "\/img\/ca_gold\/modern_home.png",
+		"outputAbbreviatedPath": "\/img\/ca_gold\/modern_home.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ca_gold\/power_fill.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215631,
+		"inputAbbreviatedPath": "\/img\/ca_gold\/power_fill.png",
+		"outputAbbreviatedPath": "\/img\/ca_gold\/power_fill.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ca_gold\/quilters_mark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 406138,
+		"inputAbbreviatedPath": "\/img\/ca_gold\/quilters_mark.png",
+		"outputAbbreviatedPath": "\/img\/ca_gold\/quilters_mark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ca_gold\/renufoam.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 382022,
+		"inputAbbreviatedPath": "\/img\/ca_gold\/renufoam.png",
+		"outputAbbreviatedPath": "\/img\/ca_gold\/renufoam.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ca_gold\/smooth_silky.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232976,
+		"inputAbbreviatedPath": "\/img\/ca_gold\/smooth_silky.png",
+		"outputAbbreviatedPath": "\/img\/ca_gold\/smooth_silky.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/california_gold.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28148,
+		"inputAbbreviatedPath": "\/img\/california_gold.png",
+		"outputAbbreviatedPath": "\/img\/california_gold.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/famousProducts_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -532,6 +598,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/slider\/cg_slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171127,
+		"inputAbbreviatedPath": "\/img\/slider\/cg_slider.jpg",
+		"outputAbbreviatedPath": "\/img\/slider\/cg_slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/slider\/slide_1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -576,6 +653,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/social-img\/cha.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427715,
+		"inputAbbreviatedPath": "\/img\/social-img\/cha.jpg",
+		"outputAbbreviatedPath": "\/img\/social-img\/cha.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/social-img\/ispa.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -587,6 +675,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/social-img\/kids.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101660,
+		"inputAbbreviatedPath": "\/img\/social-img\/kids.jpg",
+		"outputAbbreviatedPath": "\/img\/social-img\/kids.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/social-img\/wmc.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -594,6 +693,17 @@
 		"initialSize": 52236,
 		"inputAbbreviatedPath": "\/img\/social-img\/wmc.jpg",
 		"outputAbbreviatedPath": "\/img\/social-img\/wmc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social-img\/wmc2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42956,
+		"inputAbbreviatedPath": "\/img\/social-img\/wmc2.jpg",
+		"outputAbbreviatedPath": "\/img\/social-img\/wmc2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
