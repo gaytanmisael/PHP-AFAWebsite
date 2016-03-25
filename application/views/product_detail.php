@@ -15,7 +15,16 @@
                   </li>
                 </ul>
               </nav>
-              <h3 class="heading"><?php if($product === 'bean_bags'){ echo "Bean Bags";} if($product === 'mali'){echo 'Mali';}?></h3>
+              <h3 class="heading"><?php
+              if($product === 'bean_bags'){ echo "Fun Factory Bean Bags";}
+              if($product === 'mali'){echo 'Mali';}
+              if($product === 'sitsational'){echo 'Sitsational';}
+              if($product === 'modpod'){echo 'ModPod';}
+              if($product === 'jrsleeper'){echo 'Junior Sofa Sleeper';}
+              if($product === 'trifold'){echo 'Tri-Fold Foamat';}
+              if($product === 'footstool'){echo 'Footstool\'s';}
+              if($product === 'classic'){echo 'Classic Bean Bags';}
+              ?></h3>
             </div>
           </div>
 
